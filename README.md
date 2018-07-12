@@ -15,4 +15,4 @@ Learn CSSNext CSS Grid by Cloning beautiful websites and layouts.
 <img src="https://cdn.dribbble.com/users/102267/screenshots/4275407/afisha_by_radiusss.jpg" height="500px" />
 <img src="https://i.pinimg.com/564x/93/c5/b9/93c5b90c3e07b8e3c2f6186be990501b.jpg" height="500px" />
 <img src="https://i.pinimg.com/564x/20/28/9c/20289c61c06453c2a068a119a4a63d43.jpg" height="500px" />
-<img src="https://i.pinimg.com/originals/85/64/04/856404704727cddc1c5276803d6be314.jpg" height="500px" />
+<img src="https://raw.githubusercontent.com/serranoarevalo/proCSS/master/856404704727cddc1c5276803d6be314.jpg" height="500px" />
