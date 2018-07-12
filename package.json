@@ -9,5 +9,8 @@
   "scripts": {
     "start": "parcel src/index.html",
     "build": "parcel build src/index.html -d dist"
+  },
+  "devDependencies": {
+    "postcss-preset-env": "^5.2.1"
   }
 }
