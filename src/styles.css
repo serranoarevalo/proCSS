@@ -1,10 +1,12 @@
+@custom-media --small (width < 850px);
+
 body {
   font-family: system-ui;
 }
 nav,
 main {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(3, minmax(350px, 1fr));
 }
 
 nav {
@@ -104,5 +106,13 @@ main {
     &:nth-child(15) {
       background-color: #fcf8c0;
     }
+  }
+}
+
+@media (--small) {
+  nav,
+  main {
+    grid-template-columns: 1fr;
+    grid-column-gap: 0px;
   }
 }
