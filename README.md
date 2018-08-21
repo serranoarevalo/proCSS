@@ -16,3 +16,34 @@ Learn CSSNext CSS Grid by Cloning beautiful websites and layouts.
 <img src="https://i.pinimg.com/564x/93/c5/b9/93c5b90c3e07b8e3c2f6186be990501b.jpg" width="300px" />
 <img src="https://i.pinimg.com/564x/20/28/9c/20289c61c06453c2a068a119a4a63d43.jpg" width="300px" />
 <img src="https://raw.githubusercontent.com/serranoarevalo/proCSS/master/856404704727cddc1c5276803d6be314.jpg" width="300px" />
+
+## To Explain
+
+### CSS Grid
+
+- [ ] CSS Grid Basics ( Row, columns and gaps)
+- [ ] Auto columns, auto rows
+- [ ] Template Areas
+- [ ] fr unit, repeat
+- [ ] minmax, max-content, min-content
+- [ ] auto-fill, auto-fit
+- [ ] Justify Items, Align Items and Place Items
+- [ ] Justify Content, Align Content and Place Content
+- [ ] Grid Column, Row Start and End
+- [ ] Grid Area
+- [ ] Justify, Align, Place Self
+
+### CSS4 Selectors
+
+- [ ] :any-link , :matches , :not
+- [ ] CSS Variables
+- [ ] @custom-media, @custom-selector
+- [ ] Media Query Ranges
+- [ ] font-variant, gray(), system-ui
+- [ ] Nesting Rules
+
+### CSS Grid KISS
+
+- [ ] Introduction
+- [ ] KISS Calculator
+- [ ] KISS Blog

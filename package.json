@@ -1,5 +1,5 @@
 {
-  "name": "proCSS",
+  "name": "pro-css",
   "version": "1.0.0",
   "description": "Learn CSSNext and CSS Grid by Cloning beautiful websites and layouts.",
   "main": "src/app.js",
