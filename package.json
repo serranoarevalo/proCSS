@@ -12,5 +12,12 @@
   },
   "devDependencies": {
     "postcss-preset-env": "^5.2.1"
+  },
+  "postcss": {
+    "plugins": {
+      "postcss-preset-env": {
+        "stage": 0
+      }
+    }
   }
 }
