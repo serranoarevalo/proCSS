@@ -10,12 +10,9 @@ Learn CSSNext CSS Grid by Cloning beautiful websites and layouts.
 <img src="https://i.pinimg.com/564x/af/c5/fd/afc5fdee8a4036487d89ae08da9f1745.jpg" width="300px" />
 <img src="https://i.pinimg.com/564x/ba/ea/9d/baea9d5be82afaaea4aa6a739a0cc6a8.jpg" width="300px" />
 <img src="https://i.pinimg.com/564x/fd/90/23/fd9023163c117b63caac113a7bd47f5c.jpg" width="300px" />
-<img src="https://i.pinimg.com/564x/71/3d/cb/713dcbadbd7d7ecf84f7933ccccd30c4.jpg" width="300px" />
+
 <img src="https://i.pinimg.com/564x/a4/0d/ba/a40dba0269d7de0120496ec830d6b25a.jpg" width="300px" />
 <img src="https://cdn.dribbble.com/users/102267/screenshots/4275407/afisha_by_radiusss.jpg" width="300px" />
-<img src="https://i.pinimg.com/564x/93/c5/b9/93c5b90c3e07b8e3c2f6186be990501b.jpg" width="300px" />
-<img src="https://i.pinimg.com/564x/20/28/9c/20289c61c06453c2a068a119a4a63d43.jpg" width="300px" />
-<img src="https://raw.githubusercontent.com/serranoarevalo/proCSS/master/856404704727cddc1c5276803d6be314.jpg" width="300px" />
 
 ## To Explain
 
