@@ -16,6 +16,13 @@ Learn CSSNext CSS Grid by Cloning beautiful websites and layouts.
 
 ## To Explain
 
+### CSS Flex
+
+- [ ] CSS Flex Basics
+- [ ] Main Axis and Cross Axis
+- [ ] Flex Direction
+- [ ] Flex Wrap
+
 ### CSS Grid
 
 - [ ] CSS Grid Basics ( Row, columns and gaps)
